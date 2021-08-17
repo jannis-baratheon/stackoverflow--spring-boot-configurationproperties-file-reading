@@ -1,0 +1,4 @@
+database:
+  url: localhost:14482
+  username: /db/db_username.txt
+  password: /db/db_password.txt
