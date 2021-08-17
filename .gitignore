@@ -37,5 +37,6 @@ gradle-app.setting
 .gradletasknamecache
 
 # Intellij idea
-*.iws
-out/
+**/*.iws
+**/out/
+/.idea
